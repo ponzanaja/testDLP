@@ -1,5 +1,7 @@
 package demo;
 
 public class Mainclass {
-int testblock1234 = 1;
+int Testsend = 1;
+int testData = 1;
+String data = "testblock1234";
 }
